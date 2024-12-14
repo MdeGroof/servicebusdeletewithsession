@@ -1,1 +1,1 @@
-This is just a very small tool to assist in deleting messatges from a servicebus subsciption on a topic which require qa sessionId to allow deletion. It has no error handling and topic and subscription needs to be set manually. This tool is meant for occasional maintenance tasks.
+This is just a very small tool to assist in deleting messatges from a servicebus subsciption on a topic which require a sessionId to allow deletion. It has no error handling and topic and subscription needs to be set manually. This tool is meant for occasional maintenance tasks.
